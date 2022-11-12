@@ -1,0 +1,15 @@
+{
+"person": {
+    "firstName":"glenda",
+    "lastName": "cheung"
+},
+"work": {
+    "job": "student",
+    "program": "Digital Design and Development",
+    "url": "https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6515dipma/"
+},
+"study": {
+    "programs": ["Applied Software Development Certificate", "Computer Systems Certificate", "Computer Systems Diploma"],
+    "department": "School of Computing & Information Technology"
+}
+}
